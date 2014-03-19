@@ -1,1 +1,15 @@
-target/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven #
+/target
+
+# OS Files #
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
