@@ -5,6 +5,9 @@
 *.war
 *.ear
 
+# Project Files #
+/.settings
+
 # Maven #
 /target
 
